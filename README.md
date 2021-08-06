@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋👋👋👋👋
 
 <!--
 **sunxian/sunxian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```java
+/**
+ * @author sunxian
+ * @Date 2021/8/6 14:11
+ */
+public class Sun {
+
+    public static void main(String[] args) {
+         String name="Xian Sun";
+         String job="Software Engineer";
+    }
+}
+```
